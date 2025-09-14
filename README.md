@@ -1,2 +1,3 @@
 # Speda
-Web Assignment for Web Development Practicum Class
+
+A simple web-based student management display system built with HTML, CSS, and Bootstrap for managing student data.
